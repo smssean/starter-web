@@ -12,4 +12,5 @@ Adding stuff to deployment
 Adding stuff to purpose
 
 ##How to contribute
+Please fork and 
 2014 copyright
