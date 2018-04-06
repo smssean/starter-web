@@ -3,11 +3,12 @@
 ##Introduction
 
 ##Purpose
-
+Adding stuff to purpose
 ## DEPLoyment
 
 Adding stuff to deployment
 
 ##Purpose
+Adding stuff to purpose
 
 ##How to contribute
