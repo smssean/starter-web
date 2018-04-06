@@ -12,3 +12,4 @@ Adding stuff to deployment
 Adding stuff to purpose
 
 ##How to contribute
+2014 copyright
