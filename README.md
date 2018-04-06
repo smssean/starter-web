@@ -13,4 +13,4 @@ Adding stuff to purpose
 
 ##How to contribute
 Please fork and 
-2014 copyright
+2014 all rights reserved
